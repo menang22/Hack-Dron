@@ -1,2 +1,2 @@
 # Hack-Dron
-Scriot Hack Dron dengan python Work
+Script Hack Dron dengan python Work
