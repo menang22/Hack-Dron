@@ -1,8 +1,8 @@
 # Hack-Dron
 Script Hack Dron dengan python Work 100%
 
-[![Build Status](https://img.shields.io/github/forks/menang22/Hack-Dron.svg)](https://github.com/menang22/Hack-Dron)
-[![Build Status](https://img.shields.io/github/stars/menang22/Hack-Dron.svg)](https://github.com/menang22/Hack-Dron)
+[![Forks](https://img.shields.io/github/forks/menang22/Hack-Dron.svg)](https://github.com/menang22/Hack-Dron)
+[![Stars](https://img.shields.io/github/stars/menang22/Hack-Dron.svg)](https://github.com/menang22/Hack-Dron)
 [![License](https://img.shields.io/github/license/menang22/Hack-Dron.svg)](https://github.com/menang22/Hack-Dron)
 <br>
 <br>
