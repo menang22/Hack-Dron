@@ -11,6 +11,5 @@ Script Hack Dron dengan python Work 100%
 <img src="https://akcdn.detik.net.id/visual/2020/11/23/infografisawas-dibobol-hacker-jangan-pakai-10-password-buruk-ini_169.jpeg?w=360&q=90" alt=Hackers2>
 <br>
 <br>
-<br>
-<img src="https://www.text-image.com/convert/pic2ascii.cgi" alt=ASCII>
+
 
