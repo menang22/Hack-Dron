@@ -1,5 +1,5 @@
 # Hack-Dron
-Script Hack Dron dengan python Work 100%
+Script Hack Dron dengan python dan Berbagai Bahasa Pemograman Work 100%
 
 [![Forks](https://img.shields.io/github/forks/TheAlgorithms/Python.svg)](https://github.com/menang22/Hack-Dron)
 [![Stars](https://img.shields.io/github/stars/TheAlgorithms/Python.svg)](https://github.com/menang22/Hack-Dron)
